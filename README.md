@@ -5,4 +5,3 @@ PaperCutOut纹理包让“我的世界”看起来像剪纸一样！这个包使
 后期将会继续优化！
 更多关于剪纸材质的创作内容请关注Paper Cut-Out交流群
 群聊号码：933932156
-https://user-images.githubusercontent.com/28303754/52411317-5c572280-2b16-11e9-9958-18463cc91f15.png
