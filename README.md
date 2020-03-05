@@ -1,1 +1,1 @@
-<PaperCutOut> is a classic cartoon-style material with the theme of folded paper and paper cut. This texture will make the world of Minecraft look as good as a folded carton! In addition to the 3D shadow effect on the texture, there is also paper  Rough.
+《PaperCutOut》 is a classic cartoon-style material with the theme of folded paper and paper cut. This texture will make the world of Minecraft look as good as a folded carton! In addition to the 3D shadow effect on the texture, there is also paper  Rough.
