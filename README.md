@@ -1,5 +1,1 @@
-# PaperCutOut
-PaperCutOut纹理包让“我的世界”看起来像剪纸一样!这个包使用阴影,使纹理看起来像剪裁,折叠,和重叠的纸。除了这些3 d效果,纹理也只有一点纸质粗糙,但没有那么过多的“噪杂”。
-剪纸纹理包被原作者superalgae停更在1.11版，现已由chengzzi89接力更新优化此纹理包！
-更多关于剪纸材质的创作内容请关注Paper Cut-Out交流群
-群聊号码：933932156
+<PaperCutOut> is a classic cartoon-style material with the theme of folded paper and paper cut. This texture will make the world of Minecraft look as good as a folded carton! In addition to the 3D shadow effect on the texture, there is also paper  Rough.
